@@ -3,10 +3,21 @@
   <h1 align="center">Hi 👋, I'm Arup Roy </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF7400&vCenter=true&width=800&lines=I+am+Passionate+about+Frontend+Developer+;My+Passion+is+Coding+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
-# 💫 About Me:
 
-🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://aruproy.netlify.app/<br><br>📫 How to reach me aruproy299@gmail.com
+<h1>💫 About Me:</h1>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aruproyec&label=Profile%20views&color=0e75b6&style=flat" alt="aruproyec" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **web development projects**
+- 🌱 I’m currently learning **Python and enhancing my problem-solving skills**
+- 💬 Ask me about **Java, Python, React, and full-stack web development**
+- 📫 How to reach me: **aruproy299@gmail.com**
+- ⚡ Fun fact: **Did you know the first computer virus, known as 'Creeper', was created as an experiment in 1971? It would display a message saying, "I'm the creeper, catch me if you can!"**
+
+
 
 
 ## 🌐 Socials:
