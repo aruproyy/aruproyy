@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+
 # 💫 About Me:
 👋 Hello, I'm Arup Roy!<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://aruproy.netlify.app/<br><br>📫 How to reach me aruproy299@gmail.com
 
