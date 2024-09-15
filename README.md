@@ -3,9 +3,9 @@
   <h1 align="center">Hi 👋, I'm Arup Roy </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF7400&vCenter=true&width=800&lines=I+am+Passionate+about+Frontend+Developer+;My+Passion+is+Coding+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
-
-# 💫 About Me:
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
+# 💫 About Me:
+
 🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://aruproy.netlify.app/<br><br>📫 How to reach me aruproy299@gmail.com
 
 
