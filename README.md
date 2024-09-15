@@ -2,6 +2,8 @@
 
 # 💫 About Me:
 👋 Hello, I'm Arup Roy!<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://aruproy.netlify.app/<br><br>📫 How to reach me aruproy299@gmail.com
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" style="float: right;">
+
 
 
 ## 🌐 Socials:
