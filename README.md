@@ -1,8 +1,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="700">
+<div>
+  <h1 align="center">Hi 👋, I'm Arup Roy </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF7400&vCenter=true&width=800&lines=I+am+Passionate+about+Frontend+Developer+;My+Passion+is+Coding+%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
 # 💫 About Me:
-👋 Hello, I'm Arup Roy!<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://aruproy.netlify.app/<br><br>📫 How to reach me aruproy299@gmail.com
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" style="float: right;">
+🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at https://aruproy.netlify.app/<br><br>📫 How to reach me aruproy299@gmail.com
+<br></br><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
 
 
 
