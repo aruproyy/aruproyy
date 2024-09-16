@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500">
 <div>
   <h1 align="center">Hi 👋, I'm Arup Roy </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF7400&vCenter=true&width=800&lines=I+am+Passionate+about+Web+Developer+;Welcome+To+The+Club,+Pal.+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF7400&vCenter=true&width=800&lines=I+am+Passionate+Web+Developer+;Welcome+To+The+Club,+Pal.+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 <h1>💫 About Me:</h1>
